@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+.main {
+    background-color: transparent;
+    margin: auto;
+    width: 50%;
+    height: 100%;
+position: center;
+color: white;
+}
+.buttons {
+    width: 70%;
+    left: 15%;
+    position: relative;
+}
+body{ 
+    background-image: url("https://wallpaperscraft.com/image/dark_spot_background_texture_50611_602x339.jpg");
+  background-size: 100%;
+    background-repeat: no-repeat;
+  
+}
+
+.message {
+    color: white;
+    text-align: center;
+    font-size: 100px;
+}
